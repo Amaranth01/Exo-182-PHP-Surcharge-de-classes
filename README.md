@@ -9,9 +9,6 @@ Consignes :
  les différentes valeurs de ces instances.
 
 
-
-
-
 Théorie :
 
 Lors de l'héritage d'une classe, certaines méthodes ne sont pas automatiquement héritée, c'est le cas de la méthode magique
